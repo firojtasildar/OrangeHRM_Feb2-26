@@ -1,0 +1,21 @@
+2026-02-10 21:19:49,394 - INFO - Starting test_verify_url
+2026-02-10 21:19:49,535 - INFO - Verify OrangeHRM Login Page URL
+2026-02-10 21:20:41,195 - INFO - Login Page URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-10 21:20:41,243 - INFO - Login Page Title: OrangeHRM
+2026-02-10 21:20:41,243 - INFO - OrangeHRM page loaded successfully
+2026-02-10 21:20:41,254 - INFO - OrangeHRM Login Page url verified
+2026-02-10 21:20:41,407 - INFO - Screenshot saved for passed test cases
+2026-02-10 21:20:41,407 - INFO - Test case completed
+2026-02-10 21:20:41,407 - INFO - ======================================================
+2026-02-10 21:20:41,411 - INFO - Starting test_verify_orangehrm_login_002
+2026-02-10 21:20:41,412 - INFO - Verify OrangeHRM Login Functionality
+2026-02-10 21:21:11,744 - INFO - OrangeHRM Login Successful
+2026-02-10 21:21:12,028 - INFO - Screenshot saved for passed test cases
+2026-02-10 21:21:56,698 - INFO - Test case completed
+2026-02-10 21:21:56,698 - INFO - ======================================================
+2026-02-11 11:50:06,085 - INFO - Starting test_verify_orangehrm_login_DDT_003
+2026-02-11 11:50:06,107 - INFO - Verify OrangeHRM Login Functionality
+2026-02-11 11:52:53,618 - INFO - Starting test_verify_orangehrm_login_DDT_003
+2026-02-11 11:52:53,619 - INFO - Verify OrangeHRM Login Functionality
+2026-02-11 11:55:34,821 - INFO - Starting test_verify_orangehrm_login_DDT_003
+2026-02-11 11:55:34,821 - INFO - Verify OrangeHRM Login Functionality
